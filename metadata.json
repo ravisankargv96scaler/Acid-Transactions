@@ -1,0 +1,5 @@
+{
+  "name": "39-ACID Vault: Transaction Visualizer",
+  "description": "An interactive educational tool simulating database ACID properties with a secure bank vault aesthetic.",
+  "requestFramePermissions": []
+}
